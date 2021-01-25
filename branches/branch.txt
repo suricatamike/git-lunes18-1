@@ -1,0 +1,19 @@
+BRANCHES      (RAMAS)
+
+	Git permite la creacion de apuntadores dinamicos
+	en nuestros proyecto , indentificados como ramas. 
+	Las mismas llevan un nombre y siempre nos pemiten 
+	volver al ultimo commit de las mismas.
+	Podemos crear todas las ramas que sean necesarias
+	y todas van a tener en el historial de commit
+	algun ancestro en comun (el commit a partir del cual
+	fueron creadas)
+
+GIT
+	git branch         => lista las ramas locales
+	git branch -r      => lista las ramas remotas
+	git branch -a      => lista todas las ramas/locales 
+
+	git branch <name> => crea una rama con el nombre especificado 
+        git 
+	
